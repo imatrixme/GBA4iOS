@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		07D90EE7BDCB39722E674FB5 /* Pods_GBA4iOS_Simulator.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 70E3C4065B440D351A1A845A /* Pods_GBA4iOS_Simulator.framework */; };
 		09AE20781F8FA188003A572A /* DBFILESFileMetadata+Coding.m in Sources */ = {isa = PBXBuildFile; fileRef = 09AE20771F8FA188003A572A /* DBFILESFileMetadata+Coding.m */; };
 		09AE20791F8FA188003A572A /* DBFILESFileMetadata+Coding.m in Sources */ = {isa = PBXBuildFile; fileRef = 09AE20771F8FA188003A572A /* DBFILESFileMetadata+Coding.m */; };
 		1A5BAE7F17D04B0A00BABC01 /* overlays128.png in Resources */ = {isa = PBXBuildFile; fileRef = 1A5BAE7E17D04B0A00BABC01 /* overlays128.png */; };
@@ -14,6 +15,7 @@
 		1AD971E717D2B6EC007097BC /* GBAControllerSkinDetailViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1AD971E617D2B6EC007097BC /* GBAControllerSkinDetailViewController.m */; };
 		1AD971F317D2C6ED007097BC /* GBAControllerSkin.m in Sources */ = {isa = PBXBuildFile; fileRef = 1AD971F117D2C6ED007097BC /* GBAControllerSkin.m */; };
 		4996200C1BCB0E000010FBBE /* Acknowledgements.html in Resources */ = {isa = PBXBuildFile; fileRef = BFBA77B919B715E1000E8425 /* Acknowledgements.html */; };
+		5CCA012029331AEEBDC9C55E /* Pods_GBA4iOS.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CAF39808BC959B0311236CAB /* Pods_GBA4iOS.framework */; };
 		BF02AFDB182F3E590031B8B6 /* GBASyncingOverviewViewController.mm in Sources */ = {isa = PBXBuildFile; fileRef = BF02AFDA182F3E590031B8B6 /* GBASyncingOverviewViewController.mm */; };
 		BF02AFDF182F6E200031B8B6 /* GBASyncingDetailViewController.mm in Sources */ = {isa = PBXBuildFile; fileRef = BF02AFDE182F6E200031B8B6 /* GBASyncingDetailViewController.mm */; };
 		BF02D2C4197344950034A515 /* GBASoftwareUpdate.m in Sources */ = {isa = PBXBuildFile; fileRef = BF02D2C3197344950034A515 /* GBASoftwareUpdate.m */; };
@@ -488,6 +490,15 @@
 		1AD971E617D2B6EC007097BC /* GBAControllerSkinDetailViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GBAControllerSkinDetailViewController.m; sourceTree = "<group>"; };
 		1AD971F017D2C6ED007097BC /* GBAControllerSkin.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GBAControllerSkin.h; sourceTree = "<group>"; };
 		1AD971F117D2C6ED007097BC /* GBAControllerSkin.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GBAControllerSkin.m; sourceTree = "<group>"; };
+		1C4DF34C464CBBA0317246F6 /* Pods-GBA4iOS.enterprise.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-GBA4iOS.enterprise.xcconfig"; path = "Target Support Files/Pods-GBA4iOS/Pods-GBA4iOS.enterprise.xcconfig"; sourceTree = "<group>"; };
+		2D68509F7F586AC63753BE2B /* Pods-GBA4iOS.jailbreak.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-GBA4iOS.jailbreak.xcconfig"; path = "Target Support Files/Pods-GBA4iOS/Pods-GBA4iOS.jailbreak.xcconfig"; sourceTree = "<group>"; };
+		3A0AF27BB80EBA50377B7382 /* Pods-GBA4iOS-Simulator.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-GBA4iOS-Simulator.debug.xcconfig"; path = "Target Support Files/Pods-GBA4iOS-Simulator/Pods-GBA4iOS-Simulator.debug.xcconfig"; sourceTree = "<group>"; };
+		44A63F9ADD8F3D6AAEDA6E4A /* Pods-GBA4iOS-Simulator.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-GBA4iOS-Simulator.release.xcconfig"; path = "Target Support Files/Pods-GBA4iOS-Simulator/Pods-GBA4iOS-Simulator.release.xcconfig"; sourceTree = "<group>"; };
+		4621A46BF7229C41D64D4421 /* Pods-GBA4iOS.ad hoc.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-GBA4iOS.ad hoc.xcconfig"; path = "Target Support Files/Pods-GBA4iOS/Pods-GBA4iOS.ad hoc.xcconfig"; sourceTree = "<group>"; };
+		70E3C4065B440D351A1A845A /* Pods_GBA4iOS_Simulator.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_GBA4iOS_Simulator.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		791931E1EAE2B2CC6C2B087D /* Pods-GBA4iOS-Simulator.enterprise.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-GBA4iOS-Simulator.enterprise.xcconfig"; path = "Target Support Files/Pods-GBA4iOS-Simulator/Pods-GBA4iOS-Simulator.enterprise.xcconfig"; sourceTree = "<group>"; };
+		A159434101C61CE7745C11AB /* Pods-GBA4iOS.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-GBA4iOS.debug.xcconfig"; path = "Target Support Files/Pods-GBA4iOS/Pods-GBA4iOS.debug.xcconfig"; sourceTree = "<group>"; };
+		B608C4C1058509DF9D3461A6 /* Pods-GBA4iOS-Simulator.ad hoc.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-GBA4iOS-Simulator.ad hoc.xcconfig"; path = "Target Support Files/Pods-GBA4iOS-Simulator/Pods-GBA4iOS-Simulator.ad hoc.xcconfig"; sourceTree = "<group>"; };
 		BF02AFD9182F3E590031B8B6 /* GBASyncingOverviewViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GBASyncingOverviewViewController.h; sourceTree = "<group>"; };
 		BF02AFDA182F3E590031B8B6 /* GBASyncingOverviewViewController.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; path = GBASyncingOverviewViewController.mm; sourceTree = "<group>"; };
 		BF02AFDD182F6E200031B8B6 /* GBASyncingDetailViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GBASyncingDetailViewController.h; sourceTree = "<group>"; };
@@ -698,6 +709,7 @@
 		BFFDAE0F19BC2FD100BE5F74 /* GBAControllerSkinDownloadViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GBAControllerSkinDownloadViewController.h; sourceTree = "<group>"; };
 		BFFDAE1019BC2FD100BE5F74 /* GBAControllerSkinGroup.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GBAControllerSkinGroup.h; sourceTree = "<group>"; };
 		BFFDAE1119BC2FD100BE5F74 /* GBAControllerSkinDownloadViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GBAControllerSkinDownloadViewController.m; sourceTree = "<group>"; };
+		CAF39808BC959B0311236CAB /* Pods_GBA4iOS.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_GBA4iOS.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		CC0978701804BB40008F4A90 /* GBAROMTableViewControllerAnimator.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GBAROMTableViewControllerAnimator.h; sourceTree = "<group>"; };
 		CC0978711804BB40008F4A90 /* GBAROMTableViewControllerAnimator.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GBAROMTableViewControllerAnimator.m; sourceTree = "<group>"; };
 		CC126F2917A074A700FDBA56 /* GBAEmulatorScreen.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GBAEmulatorScreen.h; sourceTree = "<group>"; };
@@ -941,6 +953,8 @@
 		CCFA71F7179D304700768D24 /* LzmaDec.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; name = LzmaDec.c; path = "emu-ex-plus-alpha/GBA.emu/src/vbam/7z_C/LzmaDec.c"; sourceTree = SOURCE_ROOT; };
 		CCFA71F8179D304700768D24 /* Ppmd7.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; name = Ppmd7.c; path = "emu-ex-plus-alpha/GBA.emu/src/vbam/7z_C/Ppmd7.c"; sourceTree = SOURCE_ROOT; };
 		CCFA71F9179D304700768D24 /* Ppmd7Dec.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; name = Ppmd7Dec.c; path = "emu-ex-plus-alpha/GBA.emu/src/vbam/7z_C/Ppmd7Dec.c"; sourceTree = SOURCE_ROOT; };
+		D3F157D76BF174D68CBC3E6E /* Pods-GBA4iOS-Simulator.jailbreak.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-GBA4iOS-Simulator.jailbreak.xcconfig"; path = "Target Support Files/Pods-GBA4iOS-Simulator/Pods-GBA4iOS-Simulator.jailbreak.xcconfig"; sourceTree = "<group>"; };
+		FAF63DC85A90D279B0D5BA4D /* Pods-GBA4iOS.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-GBA4iOS.release.xcconfig"; path = "Target Support Files/Pods-GBA4iOS/Pods-GBA4iOS.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -963,6 +977,7 @@
 				BF2F35C0183FF6F9002ACE90 /* CoreGraphics.framework in Frameworks */,
 				BF2F35C2183FF6F9002ACE90 /* UIKit.framework in Frameworks */,
 				BF2F35C3183FF6F9002ACE90 /* Foundation.framework in Frameworks */,
+				07D90EE7BDCB39722E674FB5 /* Pods_GBA4iOS_Simulator.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -986,6 +1001,7 @@
 				BFC47BC2189DAA6D006C4D55 /* CrashReporter.framework in Frameworks */,
 				CC2D57041798F2EC00C616EB /* UIKit.framework in Frameworks */,
 				CC2D57001798F2EC00C616EB /* Foundation.framework in Frameworks */,
+				5CCA012029331AEEBDC9C55E /* Pods_GBA4iOS.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -1007,6 +1023,16 @@
 		3DC9E2D341D900375CA8F972 /* Pods */ = {
 			isa = PBXGroup;
 			children = (
+				A159434101C61CE7745C11AB /* Pods-GBA4iOS.debug.xcconfig */,
+				FAF63DC85A90D279B0D5BA4D /* Pods-GBA4iOS.release.xcconfig */,
+				4621A46BF7229C41D64D4421 /* Pods-GBA4iOS.ad hoc.xcconfig */,
+				1C4DF34C464CBBA0317246F6 /* Pods-GBA4iOS.enterprise.xcconfig */,
+				2D68509F7F586AC63753BE2B /* Pods-GBA4iOS.jailbreak.xcconfig */,
+				3A0AF27BB80EBA50377B7382 /* Pods-GBA4iOS-Simulator.debug.xcconfig */,
+				44A63F9ADD8F3D6AAEDA6E4A /* Pods-GBA4iOS-Simulator.release.xcconfig */,
+				B608C4C1058509DF9D3461A6 /* Pods-GBA4iOS-Simulator.ad hoc.xcconfig */,
+				791931E1EAE2B2CC6C2B087D /* Pods-GBA4iOS-Simulator.enterprise.xcconfig */,
+				D3F157D76BF174D68CBC3E6E /* Pods-GBA4iOS-Simulator.jailbreak.xcconfig */,
 			);
 			path = Pods;
 			sourceTree = "<group>";
@@ -1557,6 +1583,8 @@
 				CC2D57011798F2EC00C616EB /* CoreGraphics.framework */,
 				CC2D57031798F2EC00C616EB /* UIKit.framework */,
 				CC2D57211798F2ED00C616EB /* XCTest.framework */,
+				CAF39808BC959B0311236CAB /* Pods_GBA4iOS.framework */,
+				70E3C4065B440D351A1A845A /* Pods_GBA4iOS_Simulator.framework */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
@@ -1969,9 +1997,11 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = BF2F35D0183FF6F9002ACE90 /* Build configuration list for PBXNativeTarget "GBA4iOS-Simulator" */;
 			buildPhases = (
+				CF77C853B0D30DFE418BB671 /* [CP] Check Pods Manifest.lock */,
 				BF2F34DD183FF6F9002ACE90 /* Sources */,
 				BF2F35B4183FF6F9002ACE90 /* Frameworks */,
 				BF2F35C5183FF6F9002ACE90 /* Resources */,
+				31CDE184DA7BAE9FD008FBCB /* [CP] Embed Pods Frameworks */,
 			);
 			buildRules = (
 			);
@@ -1986,12 +2016,14 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = CC2D57311798F2ED00C616EB /* Build configuration list for PBXNativeTarget "GBA4iOS" */;
 			buildPhases = (
+				EE6AC0A23C96B92B7721AE74 /* [CP] Check Pods Manifest.lock */,
 				CC2D56F81798F2EC00C616EB /* Sources */,
 				CC2D56F91798F2EC00C616EB /* Frameworks */,
 				CC2D56FA1798F2EC00C616EB /* Resources */,
 				657CB59918BF14DD00217F96 /* ShellScript */,
 				BF7C0E74189DA4CB00794093 /* ShellScript */,
 				BFB39ADD1958D796003330AE /* Embed App Extensions */,
+				4E446F79BF4A4EE1CB59D2BC /* [CP] Embed Pods Frameworks */,
 			);
 			buildRules = (
 			);
@@ -2021,7 +2053,7 @@
 						};
 					};
 					CC2D56FB1798F2EC00C616EB = {
-						DevelopmentTeam = 5VQK5LXSL6;
+						DevelopmentTeam = FST9TRGQ7J;
 						ProvisioningStyle = Automatic;
 						SystemCapabilities = {
 							com.apple.BackgroundModes = {
@@ -2117,6 +2149,58 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXShellScriptBuildPhase section */
+		31CDE184DA7BAE9FD008FBCB /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-GBA4iOS-Simulator/Pods-GBA4iOS-Simulator-frameworks.sh",
+				"${BUILT_PRODUCTS_DIR}/AFNetworking/AFNetworking.framework",
+				"${BUILT_PRODUCTS_DIR}/NJKWebViewProgress/NJKWebViewProgress.framework",
+				"${BUILT_PRODUCTS_DIR}/ObjectiveDropboxOfficial/ObjectiveDropboxOfficial.framework",
+				"${BUILT_PRODUCTS_DIR}/PSPDFTextView/PSPDFTextView.framework",
+				"${BUILT_PRODUCTS_DIR}/RSTWebViewController/RSTWebViewController.framework",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/AFNetworking.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/NJKWebViewProgress.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/ObjectiveDropboxOfficial.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/PSPDFTextView.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/RSTWebViewController.framework",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-GBA4iOS-Simulator/Pods-GBA4iOS-Simulator-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		4E446F79BF4A4EE1CB59D2BC /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-GBA4iOS/Pods-GBA4iOS-frameworks.sh",
+				"${BUILT_PRODUCTS_DIR}/AFNetworking/AFNetworking.framework",
+				"${BUILT_PRODUCTS_DIR}/NJKWebViewProgress/NJKWebViewProgress.framework",
+				"${BUILT_PRODUCTS_DIR}/ObjectiveDropboxOfficial/ObjectiveDropboxOfficial.framework",
+				"${BUILT_PRODUCTS_DIR}/PSPDFTextView/PSPDFTextView.framework",
+				"${BUILT_PRODUCTS_DIR}/RSTWebViewController/RSTWebViewController.framework",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/AFNetworking.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/NJKWebViewProgress.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/ObjectiveDropboxOfficial.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/PSPDFTextView.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/RSTWebViewController.framework",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-GBA4iOS/Pods-GBA4iOS-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
 		657CB59918BF14DD00217F96 /* ShellScript */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
@@ -2142,6 +2226,50 @@
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
 			shellScript = "key=$(cat Crashlytics.apikey 2>/dev/null)\nif [ -n \"$key\" ]; then\n    ./Pods/CrashlyticsFramework/Crashlytics.framework/run d542629b4f6625cfd5564d27318550321272076d\nfi";
+		};
+		CF77C853B0D30DFE418BB671 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-GBA4iOS-Simulator-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		EE6AC0A23C96B92B7721AE74 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-GBA4iOS-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
 		};
 /* End PBXShellScriptBuildPhase section */
 
@@ -2607,6 +2735,7 @@
 /* Begin XCBuildConfiguration section */
 		BF2F35D1183FF6F9002ACE90 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 3A0AF27BB80EBA50377B7382 /* Pods-GBA4iOS-Simulator.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
@@ -2657,6 +2786,7 @@
 		};
 		BF2F35D2183FF6F9002ACE90 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 44A63F9ADD8F3D6AAEDA6E4A /* Pods-GBA4iOS-Simulator.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
@@ -2703,6 +2833,7 @@
 		};
 		BF2F35D3183FF6F9002ACE90 /* Ad Hoc */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = B608C4C1058509DF9D3461A6 /* Pods-GBA4iOS-Simulator.ad hoc.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
@@ -2860,6 +2991,7 @@
 		};
 		BF89A45218585D3100464448 /* Enterprise */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 1C4DF34C464CBBA0317246F6 /* Pods-GBA4iOS.enterprise.xcconfig */;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -2868,7 +3000,7 @@
 				CODE_SIGN_ENTITLEMENTS = GBA4iOS/GBA4iOS.entitlements;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
-				DEVELOPMENT_TEAM = 5VQK5LXSL6;
+				DEVELOPMENT_TEAM = FST9TRGQ7J;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)",
@@ -2904,6 +3036,7 @@
 		};
 		BF89A45318585D3100464448 /* Enterprise */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 791931E1EAE2B2CC6C2B087D /* Pods-GBA4iOS-Simulator.enterprise.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
@@ -3059,6 +3192,7 @@
 		};
 		BF941F9C18B71CC0002510D0 /* Jailbreak */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 2D68509F7F586AC63753BE2B /* Pods-GBA4iOS.jailbreak.xcconfig */;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -3067,7 +3201,7 @@
 				CODE_SIGN_ENTITLEMENTS = GBA4iOS/GBA4iOS.entitlements;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
-				DEVELOPMENT_TEAM = 5VQK5LXSL6;
+				DEVELOPMENT_TEAM = FST9TRGQ7J;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "GBA4iOS/GBA4iOS-Prefix.pch";
 				HEADER_SEARCH_PATHS = (
@@ -3097,6 +3231,7 @@
 		};
 		BF941F9D18B71CC0002510D0 /* Jailbreak */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = D3F157D76BF174D68CBC3E6E /* Pods-GBA4iOS-Simulator.jailbreak.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
@@ -3368,6 +3503,7 @@
 		};
 		CC2D57321798F2ED00C616EB /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = A159434101C61CE7745C11AB /* Pods-GBA4iOS.debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -3376,7 +3512,7 @@
 				CODE_SIGN_ENTITLEMENTS = GBA4iOS/GBA4iOS.entitlements;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
-				DEVELOPMENT_TEAM = 5VQK5LXSL6;
+				DEVELOPMENT_TEAM = FST9TRGQ7J;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)",
@@ -3412,6 +3548,7 @@
 		};
 		CC2D57331798F2ED00C616EB /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = FAF63DC85A90D279B0D5BA4D /* Pods-GBA4iOS.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -3420,7 +3557,7 @@
 				CODE_SIGN_ENTITLEMENTS = GBA4iOS/GBA4iOS.entitlements;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
-				DEVELOPMENT_TEAM = 5VQK5LXSL6;
+				DEVELOPMENT_TEAM = FST9TRGQ7J;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "GBA4iOS/GBA4iOS-Prefix.pch";
 				HEADER_SEARCH_PATHS = (
@@ -3561,6 +3698,7 @@
 		};
 		CC347BB117A3CF2200309436 /* Ad Hoc */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 4621A46BF7229C41D64D4421 /* Pods-GBA4iOS.ad hoc.xcconfig */;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -3569,7 +3707,7 @@
 				CODE_SIGN_ENTITLEMENTS = GBA4iOS/GBA4iOS.entitlements;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
-				DEVELOPMENT_TEAM = 5VQK5LXSL6;
+				DEVELOPMENT_TEAM = FST9TRGQ7J;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)",
